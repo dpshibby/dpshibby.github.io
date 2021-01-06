@@ -13,6 +13,7 @@ A favorite pic of myself, lightly edited by a friend
 ##### Some Quotes
 This is my favorite quote:
 >It is entirely conceivable that life’s splendour forever lies in wait about each one of us in all its fullness, but veiled from view, deep down, invisible, far off. It is there, though, not hostile, not reluctant, not deaf. If you summon it by the right word, by its right name, it will come. This is the essence of magic, which does not create but summons.
+by Franz Kafka
 
 The famous fast inverse square root from *Quake III Arena* (stripped of a comment):
 ```
