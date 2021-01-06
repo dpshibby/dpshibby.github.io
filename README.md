@@ -2,7 +2,7 @@
 #### This page is for the illustrious **CSE 110* course
 
 ##### A Bit About Me
-![a pic of me](/img/freedom.jpg)
+![a pic of me](/img/freedom_scaled.png)
 A favorite pic of myself, lightly edited by a friend
 
 * I am currently a UCSD student at Revelle and computer science major
