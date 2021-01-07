@@ -36,3 +36,7 @@ float Q_rsqrt( float number )
 	return y;
 }
 ```
+##### TODO
+[x] Add some info to readme
+[x] Have a little fun with it
+[ ] Wait for Part 2
