@@ -4,15 +4,17 @@
 ##### A Bit About Me
 ![a pic of me](/img/freedom_scaled.png)
 
-A favorite pic of myself, lightly edited by a friend
+A favorite pic of myself, lightly edited by a friend. You can get it and laugh at it [here](/img/freedom_scaled.png).
 
 * I am currently a UCSD student at Revelle and computer science major
 * I enjoy the Latin language and am thinking about pursuing a minor
 * My favorite programming language is C. Yep, now that was a good language
+* I tend to avoid big name search engines in favor of something a little more privacy-respecting like searx. Learn more [here](https://searx.me/)!
 
 ##### Some Quotes
 This is my favorite quote:
 >It is entirely conceivable that life’s splendour forever lies in wait about each one of us in all its fullness, but veiled from view, deep down, invisible, far off. It is there, though, not hostile, not reluctant, not deaf. If you summon it by the right word, by its right name, it will come. This is the essence of magic, which does not create but summons.
+
 by Franz Kafka
 
 The famous fast inverse square root from *Quake III Arena* (stripped of a comment):
