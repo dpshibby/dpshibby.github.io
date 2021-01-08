@@ -9,7 +9,7 @@ A favorite pic of myself, lightly edited by a friend. You can get it and laugh a
 * I'm a big proponent of [free](https://www.gnu.org/philosophy/free-sw.html) as in freedom software
 * I am currently a UCSD student at Revelle and computer science major
 * I enjoy the Latin language and am thinking about pursuing a minor
-* My favorite programming language is C. Yep, now that was a good language
+* My favorite programming language is C. Yep, now that was a **good** language
 * I tend to avoid big name search engines in favor of something a little more privacy-respecting like searx. Learn more [here](https://searx.me/)!
 
 ##### Some Quotes
